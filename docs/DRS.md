@@ -35,7 +35,7 @@
 
 ## 5. Arquitetura Técnica 
 
-### 5.1 Backend
+### 5.1 Stacks
 
 #### 5.1.1 Stack Backend 
 
