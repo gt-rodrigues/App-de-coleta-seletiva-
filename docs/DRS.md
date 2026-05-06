@@ -60,7 +60,7 @@ Visualização de pontos de coleta próximos.
 
 ---
 
-## 3. Requisitos Funcionaís
+## 3. Requisitos Funcionais
 
 
 ### RF00 – O sistema deve permitir o cadastro de usuários.
@@ -113,9 +113,22 @@ Visualização de pontos de coleta próximos.
 
 #### 5.1.1 Stack Backend 
 
+Node.js (com express) 
+
+API REST 
+
+Autenticação com jwt
 
 #### 5.1.2 Stack Frontend
 
+Mobile:react Native (ou flutter)
+
+web (admin):react.js
+
 #### 5.1.7 Banco de Dados
+
+postgreSQL (dados estruturados) 
+
+firebase(notificações em tempo real)
 
 ## 6. Modelo de Dados
