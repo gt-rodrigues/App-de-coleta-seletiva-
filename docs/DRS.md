@@ -58,15 +58,32 @@ Histórico de coletas realizadas.
 
 Visualização de pontos de coleta próximos.
 
-### 2.1 Escopo Incluído
-
 ---
 
 ## 3. Requisitos Funcionaís
 
-### RF00 - 
 
-### RF01 - 
+### RF00 – O sistema deve permitir o cadastro de usuários.
+
+### RF01 – O sistema deve permitir login e autenticação.
+
+### RF02 – O usuário deve poder solicitar coleta de resíduos eletrônicos.
+
+### RF03 – O usuário deve informar tipo de material e endereço.
+
+### RF04 – O sistema deve permitir agendamento de coleta.
+
+### RF05 – O sistema deve mostrar o status da coleta em tempo real.
+
+### RF06 – O sistema deve enviar notificações sobre atualizações da coleta.
+
+### RF07 – O administrador deve gerenciar solicitações de coleta.
+
+### RF08 – O sistema deve armazenar histórico de coletas.
+
+### RF09 – O sistema deve sugerir pontos de coleta próximos.
+
+### RF10 – O sistema deve organizar rotas de coleta automaticamente.
 
 ---
 
