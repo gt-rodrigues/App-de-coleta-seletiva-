@@ -38,6 +38,26 @@ Equipe interna (motoristas, administradores, operadores).
 
 ### 2.1 Escopo Incluído
 
+Cadastro e autenticação de usuários (pessoas físicas e empresas).
+
+Solicitação de coleta de resíduos eletrônicos.
+
+Agendamento de data, horário e local para coleta.
+
+Acompanhamento do status da coleta (pendente, em rota, concluída).
+
+Cadastro e gerenciamento de tipos de resíduos eletrônicos.
+
+Sistema de rotas para otimização das coletas.
+
+Painel administrativo para gerenciamento de solicitações.
+
+Notificações para usuários sobre status da coleta.
+
+Histórico de coletas realizadas.
+
+Visualização de pontos de coleta próximos.
+
 ### 2.1 Escopo Incluído
 
 ---
