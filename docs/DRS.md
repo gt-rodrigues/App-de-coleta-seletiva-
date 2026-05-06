@@ -89,9 +89,23 @@ Visualização de pontos de coleta próximos.
 
 ## 4. Requisitos Não Funcionais
 
-### RNF00 -
+### RNF00 – O sistema deve ter tempo de resposta inferior a 3 segundos.
 
-### RNF01 -
+### RNF01 – O sistema deve ser acessível via dispositivos móveis (Android/iOS).
+
+### RNF02 – Os dados dos usuários devem ser protegidos (segurança e privacidade).
+
+### RNF03 – O sistema deve ter alta disponibilidade (mínimo 95% uptime).
+
+### RNF04 – Interface simples e intuitiva.
+
+### RNF05 – O sistema deve suportar múltiplos usuários simultaneamente.
+
+### RNF06 – O sistema deve seguir boas práticas de sustentabilidade digital.
+
+### RNF07 – Backup automático dos dados.
+
+---
 
 ## 5. Arquitetura Técnica 
 
